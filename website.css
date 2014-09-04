@@ -1,0 +1,19 @@
+html, body {
+	margin: 45px;
+	height: 100%;
+	padding-bottom: 20px;
+	padding-right: 15px;
+	background-color: Black;
+}
+
+h1, h2, h3 {
+	color: #E8E8E8;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 26px;
+}
+
+p {
+	color: #E8E8E8;
+	font-size: 18px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
